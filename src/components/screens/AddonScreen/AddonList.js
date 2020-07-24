@@ -44,12 +44,13 @@ const Grid = styled.div`
     }
 
     @media (min-width: ${breakpoint * 1.5}px) {
-      width: 33.33%;
-      padding: 0px 15px 30px;
+      width: 50%;
+      padding: 0px 10px 20px;
     }
 
     @media (min-width: ${breakpoint * 2}px) {
-      width: 25%;
+      width: 50%;
+      padding: 0px 10px 20px;
     }
   }
 `;
