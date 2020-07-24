@@ -77,7 +77,7 @@ const WrapperLink = styled.a`
     height: 100%;
   }
   @media (min-width: ${breakpoint * 1.5}px) {
-    max-width: 320px;
+    max-width: 100%;
   }
 
   display: block;
